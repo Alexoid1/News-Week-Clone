@@ -31,7 +31,7 @@ To run the project smoothly, you must have the following installed on your machi
 - A web browser.
 
 ### Setup
-You need to clone the project by running `git clone https://github.com/Alexoid1/News-Week-Clone` You'd then navigate to the location to which you cloned the project and run the `index.html` file on your browser.
+You need to clone the project by running `git clone https://github.com/Alexoid1/News-Week-Clone.git` You'd then navigate to the location to which you cloned the project and run the `index.html` file on your browser.
 
 ## Authors
 
